@@ -1,25 +1,28 @@
 <!-- <img src = "https://miro.medium.com/v2/resize:fit:1400/1*bhFifratH9DjKqMBTeQG5A.gif" style = "width: 1600px; height: 500px;"> -->
 
 <h1 align="center">
-Hi, Cyborg's here!
+Hi, James's here!
  <a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
  </a>
 </h1>
 
-- 🔭 I’m currently working on [Deep Learning Exchange](https://github.com/cyb0rg14/DeepLearningExchange)
+-🔭 Currently leading development on Deep Learning Exchange projects<br>
 
-- 🌱 I’m currently mastering **Reinforcement Learning 🤖**
+-🌱 Advancing expertise in Reinforcement Learning and large-scale ML systems 🤖<br>
 
-- 📝 I regularly write blogs on [Medium](https://cyborgcodes.medium.com)
+-📝 Author of technical articles on Medium covering AI/ML, NLP, and Computer Vision<br>
 
-- 💬 Ask me anything about **Deep Learning, Computer Vision, NLP**
+-💬 Open to discussions on Deep Learning, NLP, Computer Vision, and AI deployment<br>
 
-- 📫 You can reach out to me at **cyborgdomain@proton.me**
+-📫 Reach me at: jamesm5171996@gmail.com
 
 ## Languages
 
 <p>
+ <a target="_blank">
+        <img alt="Javascript" src="https://img.shields.io/badge/Javascipt-%2312100E.svg?logo=python&style=for-the-badge&logoColor=blue"/>
+    </a>
     <a target="_blank">
         <img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=green"/>
     </a>
@@ -71,20 +74,6 @@ Hi, Cyborg's here!
 
 ---
 
-## Follow me
-
-<a href="https://www.linkedin.com/in/cyborgcodes/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/linkedin-%2312100E.svg?style=for-the-badge&logo=linkedin&logoColor=0078D2"/>
-</a>
-<a href="https://twitter.com/cyborgcodes_" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-twitter-%2312100E.svg?logo=twitter&logoColor=1DA1F2&style=for-the-badge"/>
-</a>
-<a href="https://www.kaggle.com/crownedhead06" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-kaggle-%2312100E.svg?logo=kaggle&logoColor=blue&style=for-the-badge&logoColor=20BEFF"/>
-</a>
-<a href="https://cyborgcodes.medium.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=Medium&logoColor=EA4335"/>
-</a>
 
 
 <!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=datamaven14&" alt="datamaven14" /></p> -->
