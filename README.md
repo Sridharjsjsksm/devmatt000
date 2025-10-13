@@ -1,7 +1,7 @@
 <!-- <img src = "https://miro.medium.com/v2/resize:fit:1400/1*bhFifratH9DjKqMBTeQG5A.gif" style = "width: 1600px; height: 500px;"> -->
 
 <h1 align="center">
-Hi, James's here!
+Hi, Chee's here!
  <a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
  </a>
@@ -15,7 +15,7 @@ Hi, James's here!
 
 -💬 Open to discussions on Deep Learning, NLP, Computer Vision, and AI deployment<br>
 
--📫 Reach me at: jamesm5171996@gmail.com
+-📫 Reach me at: chee.devmatt.tech@gmail.com
 
 ## Languages
 
